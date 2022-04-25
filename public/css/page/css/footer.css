@@ -1,0 +1,86 @@
+/*---------------------------------------
+     FOOTER              
+  -----------------------------------------*/
+
+footer {
+  padding: 7px 0;
+}
+
+.footer-07 {
+  background: #121212;
+}
+.footer-07 a {
+  color: #a3de83;
+}
+.footer-07 p {
+  color: rgba(255, 255, 255, 0.3);
+}
+.footer-07 .footer-heading {
+  font-size: 24px;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.footer-07 .footer-heading .logo {
+  color: #fff;
+}
+.footer-07 .menu {
+  margin-bottom: 30px;
+}
+.footer-07 .menu a {
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.newsletter-form .form-control {
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+  border: 0;
+  border-bottom: 1px solid #303030;
+  height: 50px;
+  margin: 5px 0;
+}
+
+.newsletter-form input[type='submit'] {
+  background: transparent;
+  border: 1px solid #f9f9f9;
+  border-radius: 50px;
+  color: #ffffff;
+  display: block;
+  margin-top: 20px;
+  outline: none;
+  width: 50%;
+}
+
+.newsletter-form input[type='submit']:hover {
+  background: #29ca8e;
+  border-color: transparent;
+}
+
+.newsletter-form .form-group span {
+  color: #909090;
+  display: block;
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+.footer-07 img {
+  width: 100%;
+  padding: 10px;
+}
+
+.footer-07 container {
+  max-width: 1040px;
+  margin: 0 auto;
+}
+
+.footer-07 h1 {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  text-align: center;
+  position: relative;
+}
